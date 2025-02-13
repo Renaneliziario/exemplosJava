@@ -1,3 +1,5 @@
+package br.com.renanqueiroz.pacote2;
+
 public class PrimeiraClasse {
 
     public static void main(String args[]) {
