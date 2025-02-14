@@ -35,6 +35,7 @@ public class Cliente {
         System.out.println(this.endereco);
     }
 
+
     public String retornarNomeCliente() {
         return "Endereço do Renan";
     }
@@ -43,5 +44,5 @@ public class Cliente {
         return 20;
     }
 
-    
+
 }
